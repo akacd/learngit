@@ -1,3 +1,3 @@
 #hello.py
-print 'helloworld!'
-print 'exit'
+name = raw_input('Please input your name:')
+print 'your name is :' + name
